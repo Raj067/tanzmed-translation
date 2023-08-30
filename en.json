@@ -1,5 +1,21 @@
 {
   "sample": "Hello!",
-  "": ""
+  "mentalHealth": "Mental Health",
+  "greeting": "Hello",
+  "terrible": "Terrible",
+  "bad": "Bad",
+  "normal": "Normal",
+  "good": "Good",
+  "veryGood": "Very good",
+  "yourCondition": "Your previous conditon is",
+  "selfAssessment": "Self assessment",
+  "knowYourCondition": "Know your condition about depression, examine to start work plan",
+  "actions": "Actions",
+  "development": "Development",
+  "workPlan": "Work Plan",
+  "forYou": "For you",
+  "all": "all",
+  "tanzmedHelp": "TanzMED can help you to face this challenge",
+  "soSorry": "So sorry",
 }
 
